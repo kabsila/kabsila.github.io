@@ -1,0 +1,28 @@
+{
+  "name": "kabsila.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabsila/kabsila.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabsila/kabsila.github.io/issues"
+  },
+  "homepage": "https://github.com/kabsila/kabsila.github.io#readme",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "express": "^4.16.3",
+    "handlebars": "^4.0.11",
+    "jquery": "^3.3.1",
+    "simplewebrtc": "^3.0.1"
+  }
+}
